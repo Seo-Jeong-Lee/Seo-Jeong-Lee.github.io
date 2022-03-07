@@ -1,2 +1,2 @@
 # Seo-Jeong-Lee.github.io
-Hompage of SJ.LEE
+Homepage of SJ.LEE
